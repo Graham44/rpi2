@@ -1,11 +1,11 @@
 # Base software installed.  WiFi connected.
-sudo apt-get install emacs23-nox
-sudo apt-get install fbi
-sudo apt-get install python3-pifacecad
-sudo apt-get install python-pip
-sudo apt-get install python-pifacecad
-sudo apt-get install sendemail
-sudo apt-get install libnet-ssleay-perl
-sudo apt-get install python3-snap-camera
+sudo apt-get install emacs23-nox -y
+sudo apt-get install fbi -y
+sudo apt-get install python3-pifacecad -y
+sudo apt-get install python-pip -y
+sudo apt-get install python-pifacecad -y
+sudo apt-get install sendemail -y
+sudo apt-get install libnet-ssleay-perl -y
+sudo apt-get install python3-snap-camera -y
 # Python install
 sudo pip install feedparser
